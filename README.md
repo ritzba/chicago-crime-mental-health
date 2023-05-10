@@ -7,29 +7,31 @@ We are exploring the relationships between mental health/drug abuse incidence an
 Data Dictionary (obtained from chicagohealthatlas.org):  
 
 **Crime Rates per 1000**
-CZA = agg assault 
-CZB = burglary 
-CZD = drugs 
-CZH = homicide 
-CZL = theft (larceny) 
-CZM = major crime 
-CZO = arson 
-CZP = property crime 
-CZR = robbery 
-CZS = sex crime 
-CZT = motor vehicle theft 
-CZV = violent crime 
+<p>
+CZA = agg assault <br>
+CZB = burglary <br>
+CZD = drugs <br>
+CZH = homicide <br>
+CZL = theft (larceny) <br>
+CZM = major crime <br>
+CZO = arson <br>
+CZP = property crime <br>
+CZR = robbery <br>
+CZS = sex crime <br>
+CZT = motor vehicle theft <br>
+CZV = violent crime <br>
 
-**Mental Health Stats per 1000**
-HCSNVP = neighborhood violence rate
-EMSOD = opioid overdose rate 
-HCSBHP = mental health treatment rate 
-HCSSPDP = rate of people reporting "significant psychological distress" 
-MEODR = opiod overdose mortality rate
-HCSBDP = binge drinking rate 
-VRALR = alcohol mortality rate 
-VRDIDR = drug induced mortality rate 
-VRDOR = drug overdose mortality rate 
-VRSUR = suicide mortality rate
-VFFIR = firearm homicide rate 
-VRHOR = firearm mortality rate
+  <p>
+    <b>Mental Health Stats per 1000</b><p>
+HCSNVP = neighborhood violence rate  <br>
+EMSOD = opioid overdose rate <br>
+HCSBHP = mental health treatment rate <br>
+HCSSPDP = rate of people reporting "significant psychological distress" <br>
+MEODR = opiod overdose mortality rate <br>
+HCSBDP = binge drinking rate <br>
+VRALR = alcohol mortality rate <br>
+VRDIDR = drug induced mortality rate <br>
+VRDOR = drug overdose mortality rate <br>
+VRSUR = suicide mortality rate <br>
+VFFIR = firearm homicide rate <br>
+VRHOR = firearm mortality rate <br>
